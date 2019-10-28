@@ -21,5 +21,15 @@ To launch the game, download the repository and then, in your terminal type :
 
 > Python3 pivaders.py
 
+## Remerciements / Special thanks to :
+
+Au maître du Python en personne, celui qui m'a donné envie de m'y mettre :
+
+To the Python-master, the one how lead me to try Python :
+
+ - [Arsiak](https://github.com/arsiak)
+
+ 
+
 
 
