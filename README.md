@@ -1,4 +1,4 @@
-# Pivaders
+# Pivaders :
 
 Pivarders est un jeu graphique de type "Space Invaders" réalisé en Python grâce à la librairie Pygame.
 
